@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="art1_title">The Starry Night</string>
+    <string name="art1_artist">Vincent van Gogh</string>
+    <string name="art1_made">1889</string>
+
+    <string name="art2_title">Nighthawks</string>
+    <string name="art2_artist">Edward Hopper</string>
+    <string name="art2_made">1942</string>
+
+    <string name="art3_title">Wanderer above the Sea of Fog</string>
+    <string name="art3_artist">Caspar David Friedrich</string>
+    <string name="art3_made">1819</string>
+
+</resources>
